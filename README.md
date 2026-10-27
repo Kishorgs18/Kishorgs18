@@ -2,7 +2,7 @@
 
 **Data Scientist & AI Engineer in London.** I build **reliable LLM agents** and **ML systems that run in production**, with a focus on **fraud, KYC and financial crime**.
 
-- 💼 Junior Data Scientist at Excel Business Environments: built and run a **production LLM agent** answering real customer enquiries, and shipped an **XGBoost model (97.4% R²)** that replaced a manual process
+- 💼 Junior Data Scientist at Excel Business Machines: built and run a **production LLM agent** answering real customer enquiries, and shipped an **XGBoost model (97.4% R²)** that replaced a manual process
 - 🎓 MSc Data Analytics (**Distinction**), Queen Mary University of London · BEng Computer Science (First Class Equivalent)
 - ☁️ Microsoft Azure DevOps Engineer Expert (**AZ-400**) · Advanced Power BI (DAX) · Advanced NLP
 - 🌐 Portfolio: **[kishorgs18.github.io](https://kishorgs18.github.io)**
